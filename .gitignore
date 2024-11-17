@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.env.*
+
+# Node/Frontend
+node_modules/
+.next/
+dist/
+build/
+
+# IDEs & OS
+.vscode/
+.DS_Store
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
